@@ -1,14 +1,14 @@
-<!-- 动态打字欢迎语 -->
+<!-- 动态打字欢迎语（稳定源） -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&background=00000000&center=true&vCenter=true&width=600&height=60&lines=Hey+there%2C+I'm+WU+You!;Full-Stack+Developer;Computer+Vision+%26+Robotics+Perception+Explorer;AI+Tools+Enthusiast;Let's+build+the+future+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&background=00000000&center=true&vCenter=true&width=600&height=60&lines=Hey+there%2C+I'm+WU+You!;Full-Stack+Developer;Computer+Vision+%26+Robotics+Perception;AI+Tools+Enthusiast;Let's+build+the+future+together!" alt="Typing SVG" />
 </p>
 
-<!-- 访客统计徽章 -->
+<!-- 访客统计徽章（稳定源） -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LuxuriousLeisure&style=flat-square&color=00BFFF" alt="Profile Views" />
 </p>
 
-<!-- 分隔线 -->
+<!-- 动态分隔线 -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800" />
 </p>
@@ -21,7 +21,7 @@
 - 🌱 Currently exploring the endless possibilities of robotic environmental perception
 - 🤝 Open to collaborations on AI, Robotics, or Full-Stack projects - let's innovate together!
 
-<!-- 技术栈展示 -->
+<!-- 技术栈展示（全稳定图标源） -->
 ## 🛠️ Tech Stack & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -69,31 +69,31 @@
   <img src="https://img.shields.io/badge/ROS-80%25-22314E?style=for-the-badge&logo=ros&logoColor=white" />
 </p>
 
-<!-- 分隔线 -->
+<!-- 动态分隔线 -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800" />
 </p>
 
-<!-- GitHub 统计卡片 -->
+<!-- GitHub 统计卡片（稳定源，修复裂图） -->
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuxuriousLeisure&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuxuriousLeisure&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuxuriousLeisure&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuxuriousLeisure&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" width="45%" />
 </p>
 
-<!-- GitHub 成就奖杯 -->
+<!-- GitHub 成就奖杯（稳定源） -->
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LuxuriousLeisure&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
-<!-- 3D 贡献热力图 -->
+<!-- 3D 贡献热力图（稳定源） -->
 ## 🔥 3D Contribution Heatmap
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api/v1/LuxuriousLeisure?theme=radical&combine_all_yearly_contributions=true" alt="3D Contribution Stats" width="80%" />
 </p>
 
-<!-- 贪吃蛇游戏彩蛋 -->
+<!-- 贪吃蛇游戏彩蛋（修复后的正确链接，Workflow运行成功后自动生效） -->
 ## 🐍 GitHub Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/LuxuriousLeisure/LuxuriousLeisure/output/github-contribution-grid-snake.svg" alt="Snake Game" />
@@ -105,14 +105,6 @@
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <!-- 你可以在这里添加更多社交链接，比如：
-  <a href="https://github.com/LuxuriousLeisure">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  -->
 </p>
 
 <!-- 结尾动态分隔线 -->
