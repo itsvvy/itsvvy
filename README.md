@@ -1,4 +1,4 @@
-<!-- 动态打字欢迎语（稳定源） -->
+<!-- 动态打字欢迎语（稳定源，无限流） -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&background=00000000&center=true&vCenter=true&width=600&height=60&lines=Hey+there%2C+I'm+WU+You!;Full-Stack+Developer;Computer+Vision+%26+Robotics+Perception;AI+Tools+Enthusiast;Let's+build+the+future+together!" alt="Typing SVG" />
 </p>
@@ -21,7 +21,7 @@
 - 🌱 Currently exploring the endless possibilities of robotic environmental perception
 - 🤝 Open to collaborations on AI, Robotics, or Full-Stack projects - let's innovate together!
 
-<!-- 技术栈展示（全稳定图标源） -->
+<!-- 技术栈展示（全稳定官方图标源，无失效） -->
 ## 🛠️ Tech Stack & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -74,26 +74,28 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800" />
 </p>
 
-<!-- GitHub 统计卡片（稳定源，修复裂图） -->
+<!-- GitHub 统计卡片（修复版：稳定镜像源，无限流，无402） -->
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuxuriousLeisure&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuxuriousLeisure&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" width="45%" />
+  <!-- 主统计卡片：社区长期维护稳定源，加防限流缓存 -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuxuriousLeisure&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400&count_private=true" alt="GitHub Stats" width="45%" />
+  <!-- 语言统计卡片：排除个人主页仓库，数据更精准，加防限流缓存 -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LuxuriousLeisure&layout=compact&theme=radical&hide_border=true&cache_seconds=86400&exclude_repo=LuxuriousLeisure" alt="Top Languages" width="45%" />
 </p>
 
-<!-- GitHub 成就奖杯（稳定源） -->
+<!-- GitHub 成就奖杯（修复版：稳定官方源，无失效） -->
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LuxuriousLeisure&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=LuxuriousLeisure&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
-<!-- 3D 贡献热力图（稳定源） -->
-## 🔥 3D Contribution Heatmap
+<!-- 贡献热力图（修复版：稳定源，无402，效果更炫酷） -->
+## 🔥 Contribution Activity
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api/v1/LuxuriousLeisure?theme=radical&combine_all_yearly_contributions=true" alt="3D Contribution Stats" width="80%" />
+  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=LuxuriousLeisure&theme=radical&hide_border=true&area=true" width="90%" />
 </p>
 
-<!-- 贪吃蛇游戏彩蛋（修复后的正确链接，Workflow运行成功后自动生效） -->
+<!-- 贪吃蛇游戏彩蛋（已正常生效，保留不动） -->
 ## 🐍 GitHub Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/LuxuriousLeisure/LuxuriousLeisure/output/github-contribution-grid-snake.svg" alt="Snake Game" />
