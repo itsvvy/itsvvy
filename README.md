@@ -1,16 +1,125 @@
-## Hi there 👋
+<!-- 动态打字欢迎语 -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&background=00000000&center=true&vCenter=true&width=600&height=60&lines=Hey+there%2C+I'm+WU+You!;Full-Stack+Developer;Computer+Vision+%26+Robotics+Perception+Explorer;AI+Tools+Enthusiast;Let's+build+the+future+together!" alt="Typing SVG" />
+</p>
 
-<!--
-**LuxuriousLeisure/LuxuriousLeisure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 访客统计徽章 -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LuxuriousLeisure&style=flat-square&color=00BFFF" alt="Profile Views" />
+</p>
 
-Here are some ideas to get you started:
+<!-- 分隔线 -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 关于我 -->
+## 🚀 About Me
+- 👨‍💻 **Full-Stack Developer** navigating the realms of code, building both Android & Web applications
+- 🤖 **Computer Vision & Robotics Perception Explorer** diving deep into visual & LiDAR point cloud processing
+- 🛠️ **AI Tools Enthusiast** proficient in leveraging cutting-edge AI to build intelligent solutions
+- 🌱 Currently exploring the endless possibilities of robotic environmental perception
+- 🤝 Open to collaborations on AI, Robotics, or Full-Stack projects - let's innovate together!
+
+<!-- 技术栈展示 -->
+## 🛠️ Tech Stack & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cmake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+<!-- 技能熟练度进度条 -->
+## 📊 Skill Proficiency
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-95%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-85%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-85%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Computer_Vision-85%25-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-85%25-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Docker-85%25-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Linux-85%25-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/PyTorch-85%25-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS-80%25-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+</p>
+
+<!-- 分隔线 -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800" />
+</p>
+
+<!-- GitHub 统计卡片 -->
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuxuriousLeisure&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuxuriousLeisure&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
+</p>
+
+<!-- GitHub 成就奖杯 -->
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LuxuriousLeisure&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+<!-- 3D 贡献热力图 -->
+## 🔥 3D Contribution Heatmap
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api/v1/LuxuriousLeisure?theme=radical&combine_all_yearly_contributions=true" alt="3D Contribution Stats" width="80%" />
+</p>
+
+<!-- 贪吃蛇游戏彩蛋 -->
+## 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LuxuriousLeisure/LuxuriousLeisure/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</p>
+
+<!-- 联系方式 -->
+## 📫 Get in Touch
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <!-- 你可以在这里添加更多社交链接，比如：
+  <a href="https://github.com/LuxuriousLeisure">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  -->
+</p>
+
+<!-- 结尾动态分隔线 -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800" />
+</p>
+
+<p align="center">
+  <i>“The only way to do great work is to love what you do.” — Steve Jobs</i>
+</p>
