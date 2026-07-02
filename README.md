@@ -5,7 +5,7 @@
 
 <!-- 访客统计徽章（稳定源） -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LuxuriousLeisure&style=flat-square&color=00BFFF" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=itsvvy&style=flat-square&color=00BFFF" alt="Profile Views" />
 </p>
 
 <!-- 动态分隔线 -->
@@ -78,27 +78,27 @@
 ## 📈 GitHub Stats
 <p align="center">
   <!-- 主统计卡片：社区长期维护稳定源，加防限流缓存 -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuxuriousLeisure&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400&count_private=true" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsvvy&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400&count_private=true" alt="GitHub Stats" width="45%" />
   <!-- 语言统计卡片：排除个人主页仓库，数据更精准，加防限流缓存 -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LuxuriousLeisure&layout=compact&theme=radical&hide_border=true&cache_seconds=86400&exclude_repo=LuxuriousLeisure" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itsvvy&layout=compact&theme=radical&hide_border=true&cache_seconds=86400&exclude_repo=itsvvy" alt="Top Languages" width="45%" />
 </p>
 
 <!-- GitHub 成就奖杯（修复版：稳定官方源，无失效） -->
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=LuxuriousLeisure&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=itsvvy&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 <!-- 贡献热力图（修复版：稳定源，无402，效果更炫酷） -->
 ## 🔥 Contribution Activity
 <p align="center">
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=LuxuriousLeisure&theme=radical&hide_border=true&area=true" width="90%" />
+  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=itsvvy&theme=radical&hide_border=true&area=true" width="90%" />
 </p>
 
 <!-- 贪吃蛇游戏彩蛋（已正常生效，保留不动） -->
 ## 🐍 GitHub Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LuxuriousLeisure/LuxuriousLeisure/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+  <img src="https://raw.githubusercontent.com/itsvvy/itsvvy/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </p>
 
 <!-- 联系方式 -->
