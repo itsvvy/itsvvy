@@ -1,119 +1,68 @@
-<!-- 动态打字欢迎语（稳定源，无限流） -->
+<h1 align="center">Hey, I'm You Wu</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&background=00000000&center=true&vCenter=true&width=600&height=60&lines=Hey+there%2C+I'm+WU+You!;Full-Stack+Developer;Computer+Vision+%26+Robotics+Perception;AI+Tools+Enthusiast;Let's+build+the+future+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Computer+Science+Student;Huawei+ICT+Competition+Second+Prize;Embodied+AI+%26+Perception+Systems" alt="Typing SVG" />
 </p>
 
-<!-- 访客统计徽章（稳定源） -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsvvy&style=flat-square&color=00BFFF" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=itsvvy&label=Profile%20views&color=58a6ff&style=flat" alt="itsvvy" />
 </p>
 
-<!-- 动态分隔线 -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800" />
-</p>
-
-<!-- 关于我 -->
-## 🚀 About Me
-- 👨‍💻 **Full-Stack Developer** navigating the realms of code, building both Android & Web applications
-- 🤖 **Computer Vision & Robotics Perception Explorer** diving deep into visual & LiDAR point cloud processing
-- 🛠️ **AI Tools Enthusiast** proficient in leveraging cutting-edge AI to build intelligent solutions
-- 🌱 Currently exploring the endless possibilities of robotic environmental perception
-- 🤝 Open to collaborations on AI, Robotics, or Full-Stack projects - let's innovate together!
-
-<!-- 技术栈展示（全稳定官方图标源，无失效） -->
-## 🛠️ Tech Stack & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cmake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-<!-- 技能熟练度进度条 -->
-## 📊 Skill Proficiency
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-95%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-85%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-85%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Computer_Vision-85%25-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-85%25-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Docker-85%25-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Linux-85%25-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/PyTorch-85%25-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS-80%25-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-</p>
-
-<!-- 动态分隔线 -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800" />
-</p>
-
-<!-- GitHub 统计卡片（修复版：稳定镜像源，无限流，无402） -->
-## 📈 GitHub Stats
-<p align="center">
-  <!-- 主统计卡片：社区长期维护稳定源，加防限流缓存 -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsvvy&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400&count_private=true" alt="GitHub Stats" width="45%" />
-  <!-- 语言统计卡片：排除个人主页仓库，数据更精准，加防限流缓存 -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itsvvy&layout=compact&theme=radical&hide_border=true&cache_seconds=86400&exclude_repo=itsvvy" alt="Top Languages" width="45%" />
-</p>
-
-<!-- GitHub 成就奖杯（修复版：稳定官方源，无失效） -->
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=itsvvy&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-<!-- 贡献热力图（修复版：稳定源，无402，效果更炫酷） -->
-## 🔥 Contribution Activity
-<p align="center">
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=itsvvy&theme=radical&hide_border=true&area=true" width="90%" />
-</p>
-
-<!-- 贪吃蛇游戏彩蛋（已正常生效，保留不动） -->
-## 🐍 GitHub Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itsvvy/itsvvy/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</p>
-
-<!-- 联系方式 -->
-## 📫 Get in Touch
-<p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=itsvvy&theme=algolia&margin-w=22&title=MultiLanguage,LongTimeUser,Commits,Stars,Repositories&row=1&column=5" alt="itsvvy" />
   </a>
 </p>
 
-<!-- 结尾动态分隔线 -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800" />
+---
+
+**About Me**
+
+I'm a computer science student and a Huawei ICT Competition second-prize winner, grounded in modern IT and drawn to embodied intelligence.
+
+- I'm currently building an edge-based stereo vision system for real-time obstacle detection, where frame cameras and event cameras have to agree on the same scene.
+- I'm learning to build software that learns from data and still behaves correctly under concurrency, from the algorithms underneath to the network between machines.
+- My hands-on experience spans operating systems, DevOps, computer vision and image processing, and edge computing.
+
+---
+
+<h3 align="left">🛠️ Languages & Tools I Work With</h3>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsvvy&locale=en&layout=compact&theme=blue-green&hide_border=true&langs_count=8&exclude_repo=itsvvy" alt="Top Languages" />
+
+<p align="right">
+  <a href="https://www.python.org"><img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="python" /></a>
+  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="java" /></a>
+  <a href="https://kotlinlang.org"><img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="40" height="40" alt="kotlin" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="javascript" /></a>
+  <a href="https://www.typescriptlang.org"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" height="40" alt="typescript" /></a>
+  <a href="https://isocpp.org"><img src="https://cdn.simpleicons.org/cplusplus/00599C" width="40" height="40" alt="cplusplus" /></a>
+  <a href="https://www.rust-lang.org"><img src="https://cdn.simpleicons.org/rust/DEA584" width="40" height="40" alt="rust" /></a>
+  <a href="https://pytorch.org"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="40" height="40" alt="pytorch" /></a>
+  <a href="https://www.tensorflow.org"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="40" height="40" alt="tensorflow" /></a>
+  <a href="https://opencv.org"><img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="40" height="40" alt="opencv" /></a>
+  <a href="https://numpy.org"><img src="https://cdn.simpleicons.org/numpy/4DABCF" width="40" height="40" alt="numpy" /></a>
+  <a href="https://scikit-learn.org"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="40" height="40" alt="scikit-learn" /></a>
+  <a href="https://www.ros.org"><img src="https://cdn.simpleicons.org/ros/8B949E" width="40" height="40" alt="ros" /></a>
+  <a href="https://nodejs.org"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="40" height="40" alt="nodejs" /></a>
+  <a href="https://expressjs.com"><img src="https://cdn.simpleicons.org/express/8B949E" width="40" height="40" alt="express" /></a>
+  <a href="https://react.dev"><img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" alt="react" /></a>
+  <a href="https://www.mongodb.com"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40" alt="mongodb" /></a>
+  <a href="https://www.postgresql.org"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40" alt="postgresql" /></a>
+  <a href="https://www.docker.com"><img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" alt="docker" /></a>
+  <a href="https://www.linux.org"><img src="https://cdn.simpleicons.org/linux/FCC624" width="40" height="40" alt="linux" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="40" height="40" alt="bash" /></a>
+  <a href="https://git-scm.com"><img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="git" /></a>
+  <a href="https://github.com/itsvvy"><img src="https://cdn.simpleicons.org/github/8B949E" width="40" height="40" alt="github" /></a>
+  <a href="https://www.arduino.cc"><img src="https://cdn.simpleicons.org/arduino/00979D" width="40" height="40" alt="arduino" /></a>
+  <a href="https://tailwindcss.com"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" height="40" alt="tailwindcss" /></a>
+  <a href="https://vite.dev"><img src="https://cdn.simpleicons.org/vite/646CFF" width="40" height="40" alt="vite" /></a>
 </p>
 
+<br clear="all" />
+
+---
+
 <p align="center">
-  <i>“The only way to do great work is to love what you do.” — Steve Jobs</i>
+  <i>Open to internships and collaborations in embodied AI and perception systems.</i>
 </p>
